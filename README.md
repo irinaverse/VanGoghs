@@ -1,4 +1,14 @@
 ## In these documents Vincent's paintings are images
-- Van Gogh, Colors and other Stories... paintings are from kaggle database
+Van Gogh, Colors and other Stories... paintings are from kaggle database:
+- color values from 0 to 255
+- histograms in RGB color model
+- Gaussian Blur and 𝑥, 𝑦 as spatial coordinates
+- K-Means clustering
+- Dominant colors in a painting
+- DataFrame of the locations of 210 paintings, placed on three continents (personal research)
+- Vincent on Colour Theory 
 
-- turning the painting "Head of a Skeleton with a Burning Cigarette" into an image and applying object detection
+Turning the painting "Head of a Skeleton with a Burning Cigarette" into an image and applying object detection:
+- image in rows and columns, as a matrix
+- manual object detection
+- for now, work in progress
