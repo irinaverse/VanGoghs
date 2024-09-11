@@ -12,4 +12,4 @@ Van Gogh, Colors and other Stories... paintings are from kaggle database:
 Turning the painting "Head of a Skeleton with a Burning Cigarette" into an image and applying object detection:
 - image in rows and columns, as a matrix
 - manual object detection
-- for now, work in progress
+- work in progress...
