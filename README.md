@@ -10,6 +10,7 @@ Van Gogh, Colors and other Stories... paintings are from kaggle database:
 - Vincent on Colour Theory 
 
 Turning the painting "Head of a Skeleton with a Burning Cigarette" into an image and applying object detection:
+- the modernity of Vincent Van Gogh's art is unequalled
 - image in rows and columns, as a matrix
 - manual object detection
 - work in progress...
