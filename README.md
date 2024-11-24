@@ -14,3 +14,5 @@ Turning the painting "Head of a Skeleton with a Burning Cigarette" into an image
 - image in rows and columns, as a matrix
 - manual object detection
 - work in progress...
+
+<p align = "right"> Click the file names above to read the documents. </p>
