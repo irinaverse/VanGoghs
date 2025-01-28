@@ -8,9 +8,9 @@
 - histograms in RGB color model
 - Gaussian Blur and 𝑥, 𝑦 as spatial coordinates
 - K-Means clustering
+- Vincent on Colour Theory
 - Dominant colors in a painting
 - DataFrame of the locations of 210 paintings, placed on three continents
-- Vincent on Colour Theory 
 <br/>
 
 Turning the painting "Head of a Skeleton with a Burning Cigarette" into an image and applying object detection:
